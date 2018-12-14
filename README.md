@@ -1,2 +1,2 @@
-# personnalProject
-个人项目
+# personnalProjectda
+webpack4+vue2搭建的一个初步环境，相当与一个项目的vueCLi起步
